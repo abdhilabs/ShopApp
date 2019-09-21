@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="nama_product">Nama Product</string>
+    <string name="harga_product">Harga Product</string>
+    <string name="gambar_product">Gambar Product</string>
+    <string name="hapus">Hapus</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_product">Tambah Product</string>
+</resources>
